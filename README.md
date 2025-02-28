@@ -43,6 +43,8 @@ __Python__
 __Rust__
 - https://github.com/Y2Z/monolith
 - https://github.com/mattsse/voyager
+- https://github.com/hakiour/turboscraper
+- https://github.com/tokahuke/lopez
 - https://github.com/utkarshkukreti/select.rs
 - https://github.com/spider-rs/spider
 - https://github.com/rust-scraper/scraper
